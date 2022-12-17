@@ -23,4 +23,25 @@ namespace DevPortfolio.ViewComponents
             return View("AboutSite",about);
         }
     }
+
+    //public class AboutSiteViewComponent : Microsoft.AspNetCore.Mvc.ViewComponent
+    //{
+    //    public async Task<IViewComponentResult> InvokeAsync()
+    //    {
+    //        var about = new List<AboutMe>
+    //        {
+    //            new AboutMe(1,"تاریخ تولد","1377"),
+    //            new AboutMe(2,"وبسایت","-"),
+    //            new AboutMe(3,"تلفن","09168467533"),
+    //            new AboutMe(4,"شهر","خرم اباد"),
+    //            new AboutMe(8,"سن","25"),
+    //            new AboutMe(6,"درجه","Sinior"),
+    //            new AboutMe(7,"ایمیل","Alirasty1997@gmail.com")
+
+    //        };
+    //        return View("AboutSite", about);
+    //    }
+    //}
+
+
 }

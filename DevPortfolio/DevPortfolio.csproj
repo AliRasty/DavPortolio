@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\Entety\" />
     <Folder Include="ViewComponents\" />
+    <Folder Include="Views\Shared\Components\ContectSite\" />
   </ItemGroup>
 
   <ItemGroup>

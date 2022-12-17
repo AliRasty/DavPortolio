@@ -118,4 +118,5 @@ E:\C#\0-Projects\DavPortfolio\DevPortfolio\DevPortfolio\bin\Debug\net5.0\zh-Hans
 E:\C#\0-Projects\DavPortfolio\DevPortfolio\DevPortfolio\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\C#\0-Projects\DavPortfolio\DevPortfolio\DevPortfolio\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 E:\C#\0-Projects\DavPortfolio\DevPortfolio\DevPortfolio\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-E:\C#\0-Projects\DavPortfolio\DevPortfolio\DevPortfolio\obj\Debug\net5.0\Razor\Views\Home\Components\AboutSite\AboutSite.cshtml.g.cs
+E:\C#\0-Projects\DavPortfolio\DevPortfolio\DevPortfolio\obj\Debug\net5.0\Razor\Views\Shared\Components\AboutSite\AboutSite.cshtml.g.cs
+E:\C#\0-Projects\DavPortfolio\DevPortfolio\DevPortfolio\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
